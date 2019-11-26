@@ -1,0 +1,1 @@
+Interface desenvolvida para realização dos exames PPG (hardware - AFE4400 e sofware - Matlab). A interface salva os dados dos pacientes e médico e os valores do sinal PPG.
